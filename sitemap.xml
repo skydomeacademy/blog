@@ -2,10 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://academy.skydome.io/</loc>
+    <loc>https://academy.skydome.io/post/awesomeness/</loc>
+    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academy.skydome.io/categories/</loc>
+    <loc>https://academy.skydome.io/post/wonderful/</loc>
+    <lastmod>2014-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/</loc>
+    <lastmod>2021-06-18T22:27:26+03:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/post/</loc>
+    <lastmod>2021-06-18T22:27:26+03:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/post/second/</loc>
+    <lastmod>2021-06-18T22:27:26+03:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/post/first-blogger/</loc>
+    <lastmod>2021-06-18T22:11:19+03:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/about/</loc>
+    <lastmod>2015-04-14T22:17:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/cs/</loc>
+    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academy.skydome.io/tags/</loc>
+    <lastmod>2014-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/categories/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/categories/development/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/development/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/post/getting-started-with-hugo/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/go/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/golang/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/categories/golang/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/hugo/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/post/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/post/migrate-to-hugo-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/post/colenak/</loc>
+    <lastmod>2013-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/categories/food/</loc>
+    <lastmod>2013-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/po/ba/</loc>
   </url>
 </urlset>

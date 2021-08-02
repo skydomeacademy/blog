@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://academy.skydome.io/</link>
-    <description>Recent content on </description>
+    <title>Posts on </title>
+    <link>https://academy.skydome.io/post/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Jun 2021 22:27:26 +0300</lastBuildDate><atom:link href="https://academy.skydome.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 22:27:26 +0300</lastBuildDate><atom:link href="https://academy.skydome.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awesomeness</title>
       <link>https://academy.skydome.io/post/awesomeness/</link>
@@ -43,15 +43,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       
       <guid>https://academy.skydome.io/post/first-blogger/</guid>
       <description>hi, is this working?</description>
-    </item>
-    
-    <item>
-      <title>About us</title>
-      <link>https://academy.skydome.io/about/</link>
-      <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
-      
-      <guid>https://academy.skydome.io/about/</guid>
-      <description>This blog is about Skydomeish stuff and its beloved crew. Welcome, and have fun!</description>
     </item>
     
     <item>
