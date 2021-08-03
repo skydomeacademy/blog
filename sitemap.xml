@@ -53,6 +53,15 @@
     <loc>https://academy.skydome.io/tags/hugo/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://academy.skydome.io/post/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academy.skydome.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://academy.skydome.io/post/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -61,8 +70,6 @@
   </url><url>
     <loc>https://academy.skydome.io/categories/food/</loc>
     <lastmod>2013-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academy.skydome.io/post/</loc>
   </url><url>
     <loc>https://academy.skydome.io/tags/po/ba/</loc>
   </url>
