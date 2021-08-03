@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 02 Jun 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://academy.skydome.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://academy.skydome.io/hugoisforlovers/</link>
+      <link>https://academy.skydome.io/post/getting-started-with-hugo/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://academy.skydome.io/hugoisforlovers/</guid>
+      <guid>https://academy.skydome.io/post/getting-started-with-hugo/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
