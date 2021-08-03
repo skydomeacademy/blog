@@ -28,15 +28,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Heyyoo</title>
-      <link>https://academy.skydome.io/heyyoo/</link>
-      <pubDate>Mon, 02 Aug 2021 15:20:33 +0300</pubDate>
-      
-      <guid>https://academy.skydome.io/heyyoo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Second</title>
       <link>https://academy.skydome.io/second/</link>
       <pubDate>Fri, 18 Jun 2021 22:27:26 +0300</pubDate>
@@ -60,7 +51,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
       
       <guid>https://academy.skydome.io/about/</guid>
-      <description>This blog is a day in the life of Skydome Academy. Welcome, and have fun!</description>
+      <description> This blog is a day in the life of Skydome Academy. Welcome, and have fun! </description>
     </item>
     
     <item>
