@@ -6,8 +6,6 @@
     font-size: 1.3rem;
     color: #9eabb3;
     text-align: center;
-    background-color: green;
-
 }
 
 .pagination a {
@@ -19,7 +17,6 @@
     display: inline-block;
     padding: 2px 0;
     min-width: 100px;
-
 }
 
 .newer-posts, .older-posts {
@@ -28,7 +25,7 @@
     padding: 0 15px;
     border: #ddd 1px dashed;
     text-decoration: none;
-    transition: border .3s ease;
+    transition: border 3.3s ease;
 }
 
 .newer-posts {
@@ -41,7 +38,6 @@
 
 .site-footer {
     padding-bottom: 20px !important;
-
 }
 
 .nav-current a:visited {
